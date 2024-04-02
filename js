@@ -1,4 +1,4 @@
-<scrip>
+<script>
 document.write("salvador");
 
 
